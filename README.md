@@ -12,7 +12,7 @@ A multithreaded simulation of autonomous warehouse robots demonstrating synchron
 - Performance analysis
 
 ## Technologies
-- C++
+- C
 - POSIX Threads (pthread)
 - Semaphores
 
